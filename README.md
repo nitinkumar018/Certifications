@@ -1,5 +1,7 @@
 # Certifications: 
 
+# Data Science certificate_ExcelR.pdf: Data Science Certification (ExcelR)
+
 # Rasa_Developer_Certification.pdf: Achieving this certification demonstrates knowledge of Rasa architecture and best practices for developing mission-critical AI assistants
 
 # python_ certificate_HackerRank.pdf: successfully cleared the assessment for the skill:- Python(Basic) 
