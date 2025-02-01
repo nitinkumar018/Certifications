@@ -1,6 +1,6 @@
 # Certifications: 
 
-# Data Science certificate_ExcelR.pdf: Data Science Certification (ExcelR)
+# Data Science certificate_ExcelR.pdf: Data Science Certification (ExcelR). Successful completion of the course with distinction
 
 # Rasa_Developer_Certification.pdf: Achieving this certification demonstrates knowledge of Rasa architecture and best practices for developing mission-critical AI assistants
 
