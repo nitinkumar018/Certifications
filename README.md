@@ -1,4 +1,4 @@
-# Certifications: 
+# Certifications:
 
 # Data Science certificate_ExcelR.pdf: Data Science Certification (ExcelR). Successful completion of the course with distinction
 
